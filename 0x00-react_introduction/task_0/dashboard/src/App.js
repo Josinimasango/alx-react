@@ -1,6 +1,6 @@
 import React from 'react';
-import './App.css';
 import holbertonLogo from './holberton-logo.png';
+import './App.css';
 
 function App() {
   return (
